@@ -1,5 +1,5 @@
 import React from 'react';
-import XLSX from 'xlsx';
+import XLSX from 'xlsx-js-style';
 
 const Type = {
   Link: 'link',

@@ -1,6 +1,8 @@
-# react-xls
+# react-xls-alt
 
-react-xls is the fastest in-browser excel ( .xls & .xlsx ) parser for React.
+react-xls-alt is a fork of react-xls: the fastest in-browser excel ( .xls & .xlsx ) parser for React. The purpose of this fork was to take the existing react-xls package and bring it up to date, including replacing the use of xlsx with a maintained fork.
+
+(Please note this README is from the original react-xls repo)
 
 [![NPM](https://img.shields.io/npm/v/react-xls.svg)](https://www.npmjs.com/package/react-xls) ![npm bundle size](https://img.shields.io/bundlephobia/min/react-xls) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
